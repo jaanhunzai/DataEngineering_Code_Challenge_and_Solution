@@ -80,5 +80,5 @@ Project is: _finished_,
 I would like to thanks CareerFoundry team for sending such an interesting task to worked on
 
 ## Contact
-Created by Sahib Jan [jaanhunzai.512@gmail.com]- feel free to contact me!
-submitted on: 01.04.2021
+* Created by Sahib Jan [jaanhunzai.512@gmail.com]- feel free to contact me!
+* submitted on: 01.04.2021
