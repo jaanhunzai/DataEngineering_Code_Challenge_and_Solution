@@ -34,19 +34,19 @@ Jupyter notebook has been created for testing purpose. you can examining how dat
 ## Deployment on GCP as a Cloud Function 
 You can download the zip source code "function-source.zip" and upload it into your cloud function 
 
-* We can use the above code together with function cloud_function_entry_point as cloud function to automate the extract, transform and load process as cloud function
+We can use the above code together with function cloud_function_entry_point as cloud function to automate the extract, transform and load process as cloud function
 
-    step 1. Create cloud function
-    step 2. populate the requirments.txt with required packages
-    step 3. enable http trigger type
-    step 4. allow Authentication
-    step 5. increase memory allocated to 2GB
-    step 6. integrate code by uploading zip folder or paste all code inline Editor
-        step 6.1. set entry point cloud_function_entry_point
-    step 7. add packages in requirement.txt
-    step 8. deploy the function
-    step 9. test the function
-    step 10. check the table schema and data in biqQuery table
+* step 1. Create cloud function
+* step 2. populate the requirments.txt with required packages
+* step 3. enable http trigger type
+* step 4. allow Authentication
+* step 5. increase memory allocated to 2GB
+* step 6. integrate code by uploading zip folder or paste all code inline Editor
+** step 6.1. set entry point cloud_function_entry_point
+* step 7. add packages in requirement.txt
+* step 8. deploy the function
+* step 9. test the function
+* step 10. check the table schema and data in biqQuery table
 
 The cloud function can be scheduled using Cloud Scheduler to trigger the cloud function on defined scheduled
 
