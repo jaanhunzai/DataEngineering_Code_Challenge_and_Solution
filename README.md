@@ -35,6 +35,7 @@ Jupyter notebook has been created for testing purpose. you can examining how dat
 You can download the zip source code "function-source.zip" and upload it into your cloud function 
 
 We can use the above code together with function cloud_function_entry_point as cloud function to automate the extract, transform and load process as cloud function
+![cloudfunction_workflow](https://user-images.githubusercontent.com/11519103/113276110-caa36400-92df-11eb-8891-1e2163d962d1.jpg)
 
 * step 1. Create cloud function
 * step 2. populate the requirments.txt with required packages
