@@ -1,6 +1,5 @@
-# CareerFoundry_Code_Challenge-SahibJan
+#Code_Challenge-SahibJan
 
-The challenge below is meant to assess skills that we think are crucial for this data engineering position at CareerFoundry.
 
 ## General info
 The repository contains project the Bitcoin price in year 2020 and prices are changed drastically due to multiple factors that affected
@@ -78,7 +77,6 @@ AirFlow DAG Tasks
 Project is: _finished_, 
 
 ## Inspiration
-I would like to thanks CareerFoundry team for sending such an interesting task to worked on
 
 ## Contact
 * Created by Sahib Jan [jaanhunzai.512@gmail.com]- feel free to contact me!
